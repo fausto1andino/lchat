@@ -1,4 +1,4 @@
-# lchat
+# lchat_rp
 
 A new Flutter project.
 

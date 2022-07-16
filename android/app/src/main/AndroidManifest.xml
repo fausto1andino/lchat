@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.lchat">
+    package="com.example.lchat_rp">
    <application
-        android:label="lchat"
+        android:label="lchat_rp"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

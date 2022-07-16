@@ -1,0 +1,6 @@
+package com.example.lchat_rp
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
